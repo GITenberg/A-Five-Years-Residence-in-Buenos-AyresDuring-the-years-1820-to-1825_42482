@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41709'
     url: http://www.gutenberg.org/2009/agents/41709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42482#A-Five-Years-Residence-in-Buenos-AyresDuring-the-years-1820-to-1825
 gutenberg_issued: '2013-04-08'
 gutenberg_type: Text
 identifiers:
