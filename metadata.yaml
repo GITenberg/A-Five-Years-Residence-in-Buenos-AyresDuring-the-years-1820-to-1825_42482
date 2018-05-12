@@ -1,0 +1,27 @@
+_repo: A-Five-Years-Residence-in-Buenos-AyresDuring-the-years-1820-to-1825_42482
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42482-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Love, George Thomas
+    deathdate: 1845
+    gutenberg_agent_id: '41709'
+    url: http://www.gutenberg.org/2009/agents/41709
+description: ''
+gutenberg_issued: '2013-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Colonia del Sacramento (Uruguay) -- Description and travel'
+- !lcsh 'Buenos Aires (Argentina) -- Description and travel'
+title: "A Five Years' Residence in Buenos Ayres, During the years 1820 to 1825\r\n\
+  Containing Remarks on the Country and Inhabitants; and a Visit to Colonia Del Sacramento"
+url: http://www.gutenberg.org/ebooks/42482
